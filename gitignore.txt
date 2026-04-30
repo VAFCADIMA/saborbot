@@ -1,0 +1,14 @@
+# No subir secretos a GitHub
+.env
+credentials.json
+*.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
